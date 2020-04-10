@@ -1,0 +1,77 @@
+PROCESS-NAME,Backup and Sync
+PROCESS-NAME,Day One
+PROCESS-NAME,Dropbox
+PROCESS-NAME,LINE
+PROCESS-NAME,node-webkit
+PROCESS-NAME,Resilio Sync
+PROCESS-NAME,Spotify
+PROCESS-NAME,Tweetbot
+PROCESS-NAME,Twitter
+PROCESS-NAME,Twitterrific
+PROCESS-NAME,viu
+# UA
+USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*
+USER-AGENT,AwemeI18n*
+USER-AGENT,Coinbase*
+USER-AGENT,Instagram*
+USER-AGENT,Resilio Sync*
+USER-AGENT,SoundCloud*
+USER-AGENT,viu*
+USER-AGENT,WeMusic*
+# BBC
+USER-AGENT,BBCiPlayer*
+DOMAIN-KEYWORD,co.uk
+DOMAIN-KEYWORD,uk-live
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.com
+# CHOCO TV
+USER-AGENT,TwDramas
+DOMAIN-SUFFIX,chocotv.com.tw
+# Epicgames
+DOMAIN-KEYWORD,epicgames
+DOMAIN-SUFFIX,helpshift.com
+# Hulu
+DOMAIN-SUFFIX,hulu.com
+# Line
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,nhncorp.jp
+# MytvSUPER
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+# Microsoft
+USER-AGENT,OneDrive*
+DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,outlook.com
+# Netflix
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxvideo.net
+# Spark
+DOMAIN-SUFFIX,api.amplitude.com
+DOMAIN-SUFFIX,app.smartmailcloud.com
+DOMAIN-SUFFIX,gate.hockeyapp.net
+DOMAIN-SUFFIX,smartmailcloud.com
+# Steam
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+# WeMusic
+DOMAIN-KEYWORD,joox
